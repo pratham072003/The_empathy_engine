@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+torch
+openai
+pydub
+pyngrok
+nest_asyncio
